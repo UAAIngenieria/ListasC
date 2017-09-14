@@ -1,0 +1,17 @@
+# depslib dependency file v1.0
+1504636784 source:c:\users\web\desktop\x\listas\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	<stdint.h>
+	"lista.h"
+
+1504636696 c:\users\web\desktop\x\listas\lista.h
+
+1504636690 source:c:\users\web\desktop\x\listas\lista.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+
